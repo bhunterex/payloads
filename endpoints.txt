@@ -12,3 +12,4 @@ app_dev.php/_profiler/open?file=app/config/parameters.yml
 wp-config.php.txt
 install.json
 dev/api/v*/
+db_live
