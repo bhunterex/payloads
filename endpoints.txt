@@ -15,3 +15,4 @@ dev/api/v*/
 db_live
 .svn/wc.db
 info.php
+.git
